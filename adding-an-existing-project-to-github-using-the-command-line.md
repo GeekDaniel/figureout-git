@@ -3,6 +3,8 @@
 
 **git init**
 
+**copy a .gitignore file to avoid unnecessary file commit**
+
 **git add .**
 
 **git commit -m "First commit"**
